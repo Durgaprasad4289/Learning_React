@@ -1,4 +1,4 @@
-# ✡️ Learning_React
+# ✡️ Learning React.js
 
 🚀 React Learning Journey
 This repository documents my React.js learning journey, starting from fundamentals and progressing toward building real-world, production-ready applications.
