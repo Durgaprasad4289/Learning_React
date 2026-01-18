@@ -20,61 +20,61 @@ This repository documents my React.js learning journey, starting from fundamenta
 
 ### 1️⃣ React Fundamentals
 
--JSX & Rendering
+- JSX & Rendering
 
--Components (Functional Components)
+- Components (Functional Components)
 
--Props & Default Props
+- Props & Default Props
 
--State Management (useState)
+- State Management (useState)
 
--Event Handling
+- Event Handling
 
--Conditional Rendering
+- Conditional Rendering
 
 -Lists & Keys
 
 ### 2️⃣ Core React Hooks
 
--useEffect
+- useEffect
 
--useRef
+- useRef
 
--useContext
+- useContext
 
--Custom Hooks
+- Custom Hooks
 
 ### 3️⃣ Styling Approaches
 
--CSS & Flexbox
+- CSS & Flexbox
 
--CSS Modules
+- CSS Modules
 
--Inline Styling
+- Inline Styling
 
--Responsive Design Basics
+- Responsive Design Basics
 
 ### 4️⃣ Project-Based Learning
 
--To-Do Application
+- To-Do Application
 
--Weather App (API Integration)
+- Weather App (API Integration)
 
--Expense Tracker
+- Expense Tracker
 
--Mini Dashboard UI
+- Mini Dashboard UI
 
--Portfolio Website
+- Portfolio Website
 
 ### 5️⃣ Advanced Concepts (Upcoming)
 
--React Router
+- React Router
 
--State Management (Context API)
+- State Management (Context API)
 
--Performance Optimization
+- Performance Optimization
 
--Component Reusability
+- Component Reusability
 
 ----
 
